@@ -1,0 +1,3 @@
+[WxAccount]
+Account = [ ["微信appid", "微信Secret"]]
+Port = ":9999"
